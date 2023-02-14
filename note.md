@@ -1,4 +1,4 @@
-## Notes i do not care about GIT
+## 
 ### Files git knows about and are added to git 
 ### Files that are in your working directory but not addedd to the repo
 ### Git staging environ, oe of the core functions 
